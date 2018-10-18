@@ -1,6 +1,6 @@
 {
   "name": "datetime-utc-local",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UTC or local time in YYYY/MM/DD-HH:mm:ss format",
   "main": "index.js",
   "scripts": {
