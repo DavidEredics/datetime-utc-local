@@ -1,0 +1,28 @@
+{
+  "name": "datetime-utc-local",
+  "version": "1.0.0",
+  "description": "UTC or local time in YYYY/MM/DD-HH:mm:ss format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidEredics/datetime-utc-local.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "utc",
+    "local",
+    "datetime",
+    "date-time",
+    "timestamp"
+  ],
+  "author": "Dávid Eredics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidEredics/datetime-utc-local/issues"
+  },
+  "homepage": "https://github.com/DavidEredics/datetime-utc-local#readme"
+}
